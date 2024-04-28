@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mathsquiz</string>
+    <string name="addition">Addition</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="division">Division</string>
+    <string name="question_goes_here">Question goes here</string>
+    <string name="score_0">Score: 0</string>
+    <string name="high_score_0">High Score: 0</string>
+    <string name="play_again">Play Again</string>
+    <string name="final_score_0">Final Score: 0</string>
+    <string name="math_quiz_game">Math Quiz Game</string>
+</resources>
